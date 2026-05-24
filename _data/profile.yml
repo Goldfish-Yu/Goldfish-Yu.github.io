@@ -38,16 +38,16 @@ portrait_url: /assets/images/photos/portrait.jpg
 #   Optional caption here.
 
 education:
-- name: Dalian University of Technology
-  logo: /assets/images/badges/dlut-logo-2048px.png  # Add logo if available
-  position: >-
-    Research Assistant in Robotics
-  date: Jan. 2025 - Jan. 2027
 - name: The Chinese University of Hong Kong, Shenzhen
   logo: /assets/images/badges/CUHKSZ-logo-2048px.png
   position: >-
     Ph.D. in Computer and Information Engineering
   date: Jan. 2023 - Jan. 2027
+- name: Dalian University of Technology
+  logo: /assets/images/badges/dlut-logo-2048px.png  # Add logo if available
+  position: >-
+    Research Assistant in Robotics
+  date: Jan. 2025 - Jan. 2027
 - name: Jilin University
   logo: /assets/images/badges/JLU-logo-2048px.png  # Add logo if available
   position: B.S. in Mechanical Engineering (Intelligent Manufacturing)
