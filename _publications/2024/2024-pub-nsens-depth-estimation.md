@@ -12,7 +12,7 @@ pub_date:       "2024"
 #   motile cells observed under monocular microscopy. By discretizing the depth range into
 #   fine-grained bins and training a classification network with optical-physics-informed
 #   features, the method provides reliable depth estimates for real-time robotic cell manipulation.
-cover:          /assets/images/covers/nsens-depth-estimation.jpg
+# cover:          /assets/images/covers/nsens-depth-estimation.jpg
 authors:
   - Han Yang
   - Yufei Jin
