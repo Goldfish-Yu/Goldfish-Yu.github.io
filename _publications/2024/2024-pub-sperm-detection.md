@@ -7,11 +7,11 @@ pub:            "Reproductive Biology and Endocrinology"
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2024"
-abstract: >-
-  This study investigates the cross-clinic generalizability and effectiveness of deep learning
-  models for sperm detection. Using multi-center clinical data, we identify key factors affecting
-  model performance across different laboratory settings and propose strategies to improve
-  robustness for real-world deployment in AI-assisted reproductive medicine.
+# abstract: >-
+#   This study investigates the cross-clinic generalizability and effectiveness of deep learning
+#   models for sperm detection. Using multi-center clinical data, we identify key factors affecting
+#   model performance across different laboratory settings and propose strategies to improve
+#   robustness for real-world deployment in AI-assisted reproductive medicine.
 cover:          /assets/images/covers/yolo.jpg
 authors:
   - Jiaqi Wang

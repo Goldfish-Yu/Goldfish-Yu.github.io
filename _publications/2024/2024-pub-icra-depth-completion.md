@@ -7,11 +7,11 @@ pub:            "2024 IEEE International Conference on Robotics and Automation (
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2024"
-abstract: >-
-  We present a weakly-supervised depth completion method for robotic micromanipulation using
-  a single monocular microscopic image. The framework leverages sparse supervisory signals
-  and physical priors inherent to microscopy optics to recover dense depth maps, enabling
-  accurate 3D guidance for cell manipulation tasks without requiring expensive depth sensors.
+# abstract: >-
+#   We present a weakly-supervised depth completion method for robotic micromanipulation using
+#   a single monocular microscopic image. The framework leverages sparse supervisory signals
+#   and physical priors inherent to microscopy optics to recover dense depth maps, enabling
+#   accurate 3D guidance for cell manipulation tasks without requiring expensive depth sensors.
 cover:          /assets/images/covers/han-icra2024.png
 authors:
   - Han Yang

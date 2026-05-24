@@ -7,11 +7,11 @@ pub:            "IEEE Robotics and Automation Letters"
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2025"
-abstract: >-
-  We propose a fine-grained classification framework for depth estimation of motile cells
-  under monocular microscopy, enabling accurate 3D localization without stereo or structured
-  light equipment. The method supports precise robotic micromanipulation by providing reliable
-  depth cues from a single microscopic image stream.
+# abstract: >-
+#   We propose a fine-grained classification framework for depth estimation of motile cells
+#   under monocular microscopy, enabling accurate 3D localization without stereo or structured
+#   light equipment. The method supports precise robotic micromanipulation by providing reliable
+#   depth cues from a single microscopic image stream.
 cover:          /assets/images/covers/han-ral2025.png
 authors:
   - Han Yang

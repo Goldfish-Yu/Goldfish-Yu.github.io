@@ -7,11 +7,11 @@ pub:            "IEEE Transactions on Biomedical Engineering"
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2025"
-abstract: >-
-  We present a fully on-smartphone sperm tracking system designed for point-of-care semen
-  analysis. Through algorithm optimization and mobile-hardware-aware design, the proposed
-  method achieves significant speed-up without sacrificing tracking accuracy, enabling
-  accessible and affordable male fertility testing outside clinical laboratories.
+# abstract: >-
+#   We present a fully on-smartphone sperm tracking system designed for point-of-care semen
+#   analysis. Through algorithm optimization and mobile-hardware-aware design, the proposed
+#   method achieves significant speed-up without sacrificing tracking accuracy, enabling
+#   accessible and affordable male fertility testing outside clinical laboratories.
 cover:          /assets/images/covers/yongbin-tbme2025.png
 authors:
   - Yongbin Zheng
