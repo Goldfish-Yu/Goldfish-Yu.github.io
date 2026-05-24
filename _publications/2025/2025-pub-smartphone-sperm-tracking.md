@@ -12,7 +12,7 @@ abstract: >-
   analysis. Through algorithm optimization and mobile-hardware-aware design, the proposed
   method achieves significant speed-up without sacrificing tracking accuracy, enabling
   accessible and affordable male fertility testing outside clinical laboratories.
-cover:          /assets/images/covers/smartphone-sperm-tracking.jpg
+cover:          /assets/images/covers/yongbin-tbme2025.png
 authors:
   - Yongbin Zheng
   - Aojun Jiang

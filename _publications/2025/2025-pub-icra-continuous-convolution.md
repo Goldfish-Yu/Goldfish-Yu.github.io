@@ -12,7 +12,7 @@ abstract: >-
   morphology and motility parameters. By formulating the flagellum as a continuous curve and
   applying differentiable convolution operators along its structure, our method accurately
   extracts kinematic parameters to support computer-aided sperm analysis.
-cover:          /assets/images/covers/icra2025-continuous-convolution.jpg
+cover:          /assets/images/covers/CConv.png
 authors:
   - Yufei Jin
   - Han Yang
@@ -21,5 +21,5 @@ authors:
   - Yu Sun
   - Zhuoran Zhang
 links:
-  Paper: "#"
+  Paper: "https://ieeexplore.ieee.org/document/11127820"
 ---

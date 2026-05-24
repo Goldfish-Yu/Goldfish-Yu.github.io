@@ -12,7 +12,7 @@ abstract: >-
   models for sperm detection. Using multi-center clinical data, we identify key factors affecting
   model performance across different laboratory settings and propose strategies to improve
   robustness for real-world deployment in AI-assisted reproductive medicine.
-cover:          /assets/images/covers/sperm-detection.jpg
+cover:          /assets/images/covers/yolo.jpg
 authors:
   - Jiaqi Wang
   - Yufei Jin

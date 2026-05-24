@@ -12,7 +12,7 @@ abstract: >-
   a single monocular microscopic image. The framework leverages sparse supervisory signals
   and physical priors inherent to microscopy optics to recover dense depth maps, enabling
   accurate 3D guidance for cell manipulation tasks without requiring expensive depth sensors.
-cover:          /assets/images/covers/icra2024-depth-completion.jpg
+cover:          /assets/images/covers/han-icra2024.png
 authors:
   - Han Yang
   - Yufei Jin
@@ -23,5 +23,5 @@ authors:
   - Yu Sun
   - Zhuoran Zhang
 links:
-  Paper: "#"
+  Paper: "https://ieeexplore.ieee.org/document/10611357"
 ---

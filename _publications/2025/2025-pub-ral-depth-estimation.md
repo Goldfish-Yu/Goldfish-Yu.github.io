@@ -12,7 +12,7 @@ abstract: >-
   under monocular microscopy, enabling accurate 3D localization without stereo or structured
   light equipment. The method supports precise robotic micromanipulation by providing reliable
   depth cues from a single microscopic image stream.
-cover:          /assets/images/covers/ral-depth-estimation.jpg
+cover:          /assets/images/covers/han-ral2025.png
 authors:
   - Han Yang
   - Yufei Jin
