@@ -1,6 +1,6 @@
 ---
 title:          "Fine-Grained Classification for Depth Estimation from Monocular Microscopy for Robotic Micromanipulation of Motile Cells"
-date:           2025-03-01 00:01:00 +0800
+date:           2025-11-14 12:01:00 +0800
 selected:       false
 pub:            "IEEE Robotics and Automation Letters"
 # pub_pre:        "Submitted to "

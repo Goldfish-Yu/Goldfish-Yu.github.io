@@ -1,6 +1,6 @@
 ---
 title:          "Ape Optimizer: A P-Power Adaptive Filter-Based Approach for Deep Learning Optimization"
-date:           2025-09-25 00:01:00 +0800
+date:           2025-09-25 12:01:00 +0800
 selected:       true
 pub:            "IEEE Transactions on Neural Networks and Learning Systems"
 # pub_pre:        "Submitted to "

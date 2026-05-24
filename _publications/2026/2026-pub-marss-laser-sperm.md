@@ -1,6 +1,6 @@
 ---
 title:          "Automated Laser-Assisted Immotile Sperm Selection via Precise Positioning of Sperm Tail Tip"
-date:           2026-08-01 00:01:00 +0800
+date:           2026-04-25 12:01:00 +0800
 selected:       false
 pub:            "2026 International Conference on Manipulation, Automation and Robotics at Small Scales (MARSS)"
 # pub_pre:        "Submitted to "

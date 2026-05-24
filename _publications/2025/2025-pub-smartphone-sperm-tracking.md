@@ -1,6 +1,6 @@
 ---
 title:          "Fully On-Smartphone: Efficient Speed-Up of Sperm Tracking Algorithm for Point-of-Care Semen Analysis"
-date:           2025-06-01 00:01:00 +0800
+date:           2025-09-29 12:01:00 +0800
 selected:       false
 pub:            "IEEE Transactions on Biomedical Engineering"
 # pub_pre:        "Submitted to "

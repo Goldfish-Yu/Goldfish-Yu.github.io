@@ -1,6 +1,6 @@
 ---
 title:          "Continuous Convolution for Automated Measurement of Sperm Flagella"
-date:           2025-05-19 00:01:00 +0800
+date:           2025-05-19 12:01:00 +0800
 selected:       true
 pub:            "2025 IEEE International Conference on Robotics and Automation (ICRA)"
 # pub_pre:        "Submitted to "
