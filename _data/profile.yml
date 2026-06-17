@@ -68,6 +68,15 @@ experience:
   position: Equipment Engineer & Party Building Specialist
   date: Jul. 2021 - Jan. 2023
 
-# awards:
-# - name: Best Paper Award, IEEE International Conference on Micro/Nano Sensors for AI, Healthcare and Robotics (IEEE-NSENS)
-#   date: 2024
+awards:
+- name: 第十五届“挑战杯”中国大学生创业计划竞赛
+  level: 省一等奖
+  date: 2026
+  
+# - name: American Society for Reproductive Medicine (ASRM) 
+#   level: Video Presentation Award First Place
+#   date: 2026
+
+- name: IEEE International Conference on Micro/Nano Sensors for AI, Healthcare and Robotics (IEEE-NSENS)
+  level: Best Paper Award
+  date: 2024
