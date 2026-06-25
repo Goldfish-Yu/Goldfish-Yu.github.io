@@ -1,10 +1,10 @@
 ---
-title:          "Direction-Free Continuous Convolution for Automated Measurement of Sperm Flagella"
-date:           2026-03-01 00:01:00 +0800
+title:          "Automated Analysis of Sperm Flagella with Direction-Free Continuous Convolution"
+date:           2026-06-22 10:59:00 +0800
 selected:       false
 pub:            " IEEE Transactions on Automation Science and Engineering "
-pub_pre:        "Submitted to"
-# pub_post:       'Under review.'
+# pub_pre:        "Submitted to"
+pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2026"
 abstract: >-

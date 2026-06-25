@@ -1,10 +1,10 @@
 ---
-title:          "Unstained Subcellular Morphology Measurement in Live Motile Cells"
-date:           2026-06-01 00:01:00 +0800
+title:          "Automated Subcellular Morphology Measurement in Unstained Live Motile Sperm Cells"
+date:           2026-06-22 16:01:00 +0800
 selected:       false
 pub:            "Advanced Intelligent Systems"
-pub_pre:        "To be submitted to "
-# pub_post:       'Under review.'
+# pub_pre:        "To be submitted to "
+pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2026"
 # abstract: >-

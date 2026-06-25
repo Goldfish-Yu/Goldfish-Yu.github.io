@@ -1,10 +1,10 @@
 ---
-title:          "Automated Oocyte Cryopreservation System with Robotic Control of Residual Liquid Morphology"
-date:           2026-08-01 00:01:00 +0800
+title:          "An Automated Oocyte Cryopreservation System with Robotic Control of Liquid Morphology"
+date:           2026-06-22 18:19:00 +0800
 selected:       false
 pub:            "IEEE/ASME Transactions on Mechatronics"
-pub_pre:        "To be submitted to "
-# pub_post:       'Under review.'
+# pub_pre:        "To be submitted to "
+pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2026"
 # abstract: >-
