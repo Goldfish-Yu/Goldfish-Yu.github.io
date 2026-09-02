@@ -3,8 +3,8 @@ title:          "D2Mamba: Dual Dynamic State Space Model for Curvilinear Structu
 date:           2026-10-01 00:01:00 +0800
 selected:       false
 pub:            "IEEE Transactions on Medical Imaging"
-pub_pre:        "To be submitted to "
-# pub_post:       'Under review.'
+# pub_pre:        "To be submitted to "
+pub_post:       ' Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2026"
 # abstract: >-

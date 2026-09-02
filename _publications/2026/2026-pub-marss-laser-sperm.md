@@ -12,7 +12,7 @@ pub_date:       "2026"
 #   high-precision targeting by accurately localizing the sperm tail tip. The system combines
 #   deep learning-based tail tip detection with closed-loop robotic control to deliver laser
 #   stimulation at the optimal site, improving viability assessment efficiency for ICSI.
-cover:          /assets/images/covers/marss-laser-sperm.jpg
+cover:          /assets/images/covers/2026marss.png
 authors:
   - Han Yang
   - Yufei Jin
